@@ -12,4 +12,4 @@ I am a first-year PhD student in mathematics at [Princeton University](pacm.prin
 
 I graduated from Johns Hopkins University in 2019 with bachelor's degrees in mathematics and applied mathematics and a master's degree in applied mathematics. I wrote my master's thesis on the combinatorial properties of the Laplacian eigenvalues of cographs.
 
-Outside of math, I enjoy writing short stories, traveling, playing strategic [board games](https://www.playwerewolf.co/), and eating vegan food. 
+Outside of math, I enjoy writing short stories, traveling, playing strategic board games, and eating vegan food. 
