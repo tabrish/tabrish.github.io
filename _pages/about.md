@@ -10,6 +10,8 @@ redirect_from:
 
 I am a first-year PhD student in mathematics at [Princeton University](pacm.princeton.edu). My interests are in discrete math, particularly graph theory, combinatorics, and optimization. My CV is here.
 
-I graduated from Johns Hopkins University in 2019 with bachelor's degrees in mathematics and applied mathematics and a master's degree in applied mathematics. I wrote my master's thesis on the combinatorial properties of the Laplacian eigenvalues of cographs.
+I graduated from Johns Hopkins University in 2019 with bachelor's degrees in mathematics and applied mathematics and a master's degree in applied mathematics. I wrote my [master's thesis](https://tabrish.github.io/files/thesis.pdf) on the combinatorial properties of the Laplacian eigenvalues of cographs.
 
-Outside of math, I enjoy writing short stories, traveling, playing strategic board games, and eating vegan food. 
+Outside of math, I enjoy writing short stories, traveling, playing strategic board games, and eating vegan food.
+
+This summer, I am a graduate fellow at the [Voting Rights Data Institute](gerrydata.org).
