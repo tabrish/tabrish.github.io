@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tara Abrishami"
+  name             : #"Tara Abrishami"
   avatar           : "profile.png"
-  bio              : "PhD student in mathematics"
+  bio              : #"PhD student in mathematics"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
