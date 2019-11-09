@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-**Geometry of Graph Partitions via Optimal Transport**\
-with Nestor Guillen, Parker Rule, Zachary Schutzman, Justin Solomon, Thomas Weighill, and Si Wu. \
-Submitted, October 2019 \
+**Geometry of Graph Partitions via Optimal Transport**<br/>
+with Nestor Guillen, Parker Rule, Zachary Schutzman, Justin Solomon, Thomas Weighill, and Si Wu. <br/>
+Submitted, October 2019 <br/>
 [preprint](https://arxiv.org/abs/1910.09618)
 
 
