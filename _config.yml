@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Tara Abrishami"
   avatar           : "profile.png"
-  bio              : "PhD student in mathematics at Princeton University \\ graph theory"
+  bio              : "PhD student in mathematics at Princeton University"
   location         : #"Location"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Abrishami%2C+T&order=-announced_date_first&size=100&abstracts=show"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : #"taraa@princeton.edu"
+  email            : "taraa@princeton.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
