@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student in mathematics at Princeton University"
   location         : #"Location"
-  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Abrishami%2C+T&order=-announced_date_first&size=100&abstracts=show"
+  arxiv            : "https://arxiv.org/search/?query=Abrishami%2C+Tara&searchtype=author&abstracts=show&order=-announced_date_first&size=100"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
