@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My papers and preprints can also be accessed on [arxiv](https://arxiv.org/search/?searchtype=author&query=Abrishami%2C+T&order=-announced_date_first&size=100&abstracts=show).
+My papers and preprints can also be accessed on [arxiv](https://arxiv.org/search/?query=Abrishami%2C+Tara&searchtype=author&abstracts=show&order=-announced_date_first&size=100).
 
 
 [**Graphs with polynomially many minimal separators**](https://arxiv.org/abs/2005.05042)<br/>
