@@ -5,10 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
-**Geometry of Graph Partitions via Optimal Transport**<br/>
+My papers and preprints can also be accessed on [arxiv](https://arxiv.org/search/?searchtype=author&query=Abrishami%2C+T&order=-announced_date_first&size=100&abstracts=show).
+
+
+[**Graphs with polynomially many minimal separators**](https://arxiv.org/abs/2005.05042)<br/>
+with Maria Chudnovsky, Cemil Dibek, Stéphan Thomassé, Nicolas Trotignon, and Kristina Vušković. <br/>
+Submitted, May 2020 <br/>
+
+[**Induced subgraphs of bounded treewidth and the container method**](https://arxiv.org/abs/2003.05185)<br/>
+with Maria Chudnovsky, Marcin Pilipczuk, Paweł Rzążewski, and Paul Seymour. <br/>
+Submitted, March 2020 <br/>
+
+
+[**Geometry of Graph Partitions via Optimal Transport**](https://arxiv.org/abs/1910.09618)<br/>
 with Nestor Guillen, Parker Rule, Zachary Schutzman, Justin Solomon, Thomas Weighill, and Si Wu. <br/>
 Submitted, October 2019 <br/>
-[preprint](https://arxiv.org/abs/1910.09618)
 
 
 {% if author.googlescholar %}
