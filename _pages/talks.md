@@ -4,4 +4,11 @@ title: "Talks"
 author_profile: true
 ---
 
-List talks here
+[**Even-hole-free graphs with bounded degree have bounded treewidth**](link)<br/>
+GRAA online seminar, September 2020 <br/>
+
+[**Maximum weight induced subgraphs and the container method**](link)<br/>
+Young Researchers in Combinatorics online primer, July 2020<br/>
+
+[**Eigenvalues of Cographs**](link)<br/>
+Joint Mathematics Meetings, January 2019 <br/>
