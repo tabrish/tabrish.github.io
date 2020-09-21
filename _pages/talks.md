@@ -4,7 +4,7 @@ title: "Talks"
 author_profile: true
 ---
 
-[**Even-hole-free graphs with bounded degree have bounded treewidth**](https://tabrish.github.io/files/YRC_July_2020.pdf) <br/>
+[**Even-hole-free graphs with bounded degree have bounded treewidth**](https://tabrish.github.io/files/GRAA_2020.pdf) <br/>
 GRAA online seminar, September 2020 <br/>
 [(recording)](https://bbb-temp.grenet.fr/playback/presentation/2.0/playback.html?meetingId=b0b04c0a35a12221eecc03e1b59e28d3381b1f76-1600346723390)<br/>
 
