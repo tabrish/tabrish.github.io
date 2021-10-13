@@ -3,6 +3,11 @@ permalink: /talks/
 title: "Talks"
 author_profile: true
 ---
+[**Induced subgraph obstructions to bounded treewidth**] <br/>
+TU Ilmenau Combinatorics Seminar, April 2021. <br/> 
+
+[**Induced subgraphs of bounded treewidth and the container method**] <br/>
+SIAM Symposium on Discrete Algorithms (SODA), January 2021. <br/>
 
 [**Even-hole-free graphs with bounded degree have bounded treewidth**](https://tabrish.github.io/files/GRAA_2020.pdf) <br/>
 GRAA online seminar, September 2020 <br/>
