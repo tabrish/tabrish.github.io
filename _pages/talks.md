@@ -3,10 +3,13 @@ permalink: /talks/
 title: "Talks"
 author_profile: true
 ---
-[**Induced subgraph obstructions to bounded treewidth**] <br/>
+[**Induced subgraph obstructions to bounded treewidth**](https://tabrish.github.io/files/TU_Ilmenau_Talk.pdf) <br/>
 TU Ilmenau Combinatorics Seminar, April 2021. <br/> 
 
-[**Induced subgraphs of bounded treewidth and the container method**] <br/>
+[**Proof methods in structural graph theory**](https://tabrish.github.io/files/GSS_Talk.pdf) <br/>
+Princeton PACM Graduate Student Seminar, February 2021. 
+
+[**Induced subgraphs of bounded treewidth and the container method**](https://tabrish.github.io/files/SODA_2021.pdf) <br/>
 SIAM Symposium on Discrete Algorithms (SODA), January 2021. <br/>
 
 [**Even-hole-free graphs with bounded degree have bounded treewidth**](https://tabrish.github.io/files/GRAA_2020.pdf) <br/>
