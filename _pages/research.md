@@ -5,24 +5,40 @@ permalink: /research/
 author_profile: true
 ---
 
-My papers and preprints can also be accessed on [arxiv](https://arxiv.org/search/?query=Abrishami%2C+Tara&searchtype=author&abstracts=show&order=-announced_date_first&size=100).
+My papers and preprints can also be accessed on [arxiv](https://arxiv.org/search/?query=Abrishami%2C+Tara&searchtype=author&abstracts=show&order=-announced_date_first&size=100) or [Google Scholar](https://scholar.google.com/citations?user=GvdjMbcAAAAJ&hl=en). 
 
-[**Even-hole-free graphs with bounded degree have bounded treewidth**](https://arxiv.org/abs/2009.01297)<br/>
+[**Submodular functions and perfect graphs**](https://arxiv.org/abs/2110.00108)<br/>
+with Maria Chudnovsky, Cemil Dibek, and Kristina Vušković. <br/>
+Manuscript, September 2021. <br/>
+
+[**Induced subgraphs and tree decompositions III. Three-path-configurations and logarithmic treewidth**](https://arxiv.org/abs/2109.01310)<br/>
+with Maria Chudnovsky, Sepehr Hajebi, and Sophie Spirkl. <br/>
+Submitted, August 2021. <br/>
+
+[**Induced subgraphs and tree decompositions II. Toward walls and their line graphs in graphs of bounded degree**](https://arxiv.org/abs/2108.01162)<br/>
+with Maria Chudnovsky, Cemil Dibek, Sepehr Hajebi, Paweł Rzążewski, Sophie Spirkl, and Kristina Vušković. <br/>
+Submitted, August 2021. <br/>
+
+[**Polynomial-time algorithm for Maximum Independent Set in bounded-degree graphs with no long induced claws**](https://arxiv.org/abs/2107.05434)<br/>
+with Maria Chudnovsky, Cemil Dibek, and Paweł Rzążewski. <br/>
+To appear. <br/>
+
+[**Induced subgraphs and tree decompositions I. Even-hole-free graphs of bounded degree**](https://arxiv.org/abs/2009.01297)<br/>
 with Maria Chudnovsky and Kristina Vušković. <br/>
-Submitted, September 2020 <br/>
+Submitted, September 2020. <br/>
 
 [**Graphs with polynomially many minimal separators**](https://arxiv.org/abs/2005.05042)<br/>
 with Maria Chudnovsky, Cemil Dibek, Stéphan Thomassé, Nicolas Trotignon, and Kristina Vušković. <br/>
-Submitted, May 2020 <br/>
+To appear. <br/>
 
 [**Induced subgraphs of bounded treewidth and the container method**](https://arxiv.org/abs/2003.05185)<br/>
 with Maria Chudnovsky, Marcin Pilipczuk, Paweł Rzążewski, and Paul Seymour. <br/>
-Submitted, March 2020 <br/>
+Proceedings of the 2021 ACM-SIAM Symposium on Discrete Algorithms (SODA). <br/>
 
 
 [**Geometry of Graph Partitions via Optimal Transport**](https://arxiv.org/abs/1910.09618)<br/>
 with Nestor Guillen, Parker Rule, Zachary Schutzman, Justin Solomon, Thomas Weighill, and Si Wu. <br/>
-To appear in *SIAM Journal of Scientific Computing* <br/>
+SIAM Journal on Scientific Computing 42 (5), A3340-A3366. <br/>
 
 
 {% if author.googlescholar %}
