@@ -29,7 +29,7 @@ Submitted, September 2020. <br/>
 
 [**Graphs with polynomially many minimal separators**](https://arxiv.org/abs/2005.05042)<br/>
 with Maria Chudnovsky, Cemil Dibek, Stéphan Thomassé, Nicolas Trotignon, and Kristina Vušković. <br/>
-To appear. <br/>
+Journal of Combinatorial Theory, Series B 152, January 2022, Pages 248-280. <br/>
 
 [**Induced subgraphs of bounded treewidth and the container method**](https://arxiv.org/abs/2003.05185)<br/>
 with Maria Chudnovsky, Marcin Pilipczuk, Paweł Rzążewski, and Paul Seymour. <br/>
