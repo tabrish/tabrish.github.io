@@ -27,16 +27,16 @@ To appear. <br/>
 with Maria Chudnovsky and Kristina Vušković. <br/>
 Submitted, September 2020. <br/>
 
-[**Graphs with polynomially many minimal separators**](https://arxiv.org/abs/2005.05042)<br/>
+[**Graphs with polynomially many minimal separators**](https://www.sciencedirect.com/science/article/pii/S0095895621000848?dgcid=coauthor)<br/>
 with Maria Chudnovsky, Cemil Dibek, Stéphan Thomassé, Nicolas Trotignon, and Kristina Vušković. <br/>
 Journal of Combinatorial Theory, Series B 152, January 2022, Pages 248-280. <br/>
 
-[**Induced subgraphs of bounded treewidth and the container method**](https://arxiv.org/abs/2003.05185)<br/>
+[**Induced subgraphs of bounded treewidth and the container method**](https://epubs.siam.org/doi/10.1137/1.9781611976465.116)<br/>
 with Maria Chudnovsky, Marcin Pilipczuk, Paweł Rzążewski, and Paul Seymour. <br/>
 Proceedings of the 2021 ACM-SIAM Symposium on Discrete Algorithms (SODA). <br/>
 
 
-[**Geometry of Graph Partitions via Optimal Transport**](https://arxiv.org/abs/1910.09618)<br/>
+[**Geometry of Graph Partitions via Optimal Transport**](https://epubs.siam.org/doi/10.1137/19M1295258)<br/>
 with Nestor Guillen, Parker Rule, Zachary Schutzman, Justin Solomon, Thomas Weighill, and Si Wu. <br/>
 SIAM Journal on Scientific Computing 42 (5), A3340-A3366. <br/>
 
