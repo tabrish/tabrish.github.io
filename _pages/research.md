@@ -7,9 +7,17 @@ author_profile: true
 
 My papers and preprints can also be accessed on [arxiv](https://arxiv.org/search/?query=Abrishami%2C+Tara&searchtype=author&abstracts=show&order=-announced_date_first&size=100) or [Google Scholar](https://scholar.google.com/citations?user=GvdjMbcAAAAJ&hl=en). 
 
+[**Induced subgraphs and tree decomposisions V. One neighbor in a hole**](https://arxiv.org/abs/2205.04420)<br/>
+with Bogdan Alecu, Maria Chudnovsky, Sepehr Hajebi, Sophie Spirkl, and Krinstina Vušković. <br/>
+Submitted, May 2022. <br/>
+
+[**Induced subgraphs and tree decompositions IV. (Even hole, diamond, pyramid)-free graphs**](https://arxiv.org/abs/2203.06775)<br/>
+with Maria Chudnovsky, Sepehr Hajebi, and Sophie Spirkl. <br/>
+Submitted, March 2022. <br/>
+
 [**Submodular functions and perfect graphs**](https://arxiv.org/abs/2110.00108)<br/>
 with Maria Chudnovsky, Cemil Dibek, and Kristina Vušković. <br/>
-Manuscript, September 2021. <br/>
+Submitted, September 2021. <br/>
 
 [**Induced subgraphs and tree decompositions III. Three-path-configurations and logarithmic treewidth**](https://arxiv.org/abs/2109.01310)<br/>
 with Maria Chudnovsky, Sepehr Hajebi, and Sophie Spirkl. <br/>
