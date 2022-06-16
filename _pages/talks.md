@@ -3,14 +3,14 @@ permalink: /talks/
 title: "Talks"
 author_profile: true
 ---
-[**Induced subgraphs and tree decompositions**]<br/>
+**Induced subgraphs and tree decompositions**<br/>
 British Combinatorial Conference, Lancaster U.K., <br/>
-Induced subgraphs minisymposium, July 2022. <\br>
+Induced subgraphs minisymposium, July 2022. <br/>
 
-[**Polynomial-time algorithm for Maximum Independent Set in bounded-degree graphs with no long induced claws**]<br/>
+**Polynomial-time algorithm for Maximum Independent Set in bounded-degree graphs with no long induced claws**]<br/>
 Seymour is 70+x, Lyon, France, June 2022. <br/>
 
-[**Induced subgraphs and treewidth**] <br/>
+**Induced subgraphs and treewidth** <br/>
 Princeton PACM Graduate Student Seminar, February 2022. 
 
 [**Induced subgraph obstructions to bounded treewidth**](https://tabrish.github.io/files/TU_Ilmenau_Talk.pdf) <br/>
