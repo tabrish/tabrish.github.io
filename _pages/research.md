@@ -33,7 +33,7 @@ Proceedings of the 2022 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA),
 
 [**Induced subgraphs and tree decompositions I. Even-hole-free graphs of bounded degree**](https://arxiv.org/abs/2009.01297)<br/>
 with Maria Chudnovsky and Kristina Vušković. <br/>
-Journal of Combinatorial Theory, Series B 157C, June 2022, 144-175. <br/>
+Journal of Combinatorial Theory, Series B 157, November 2022, 144-175. <br/>
 
 [**Graphs with polynomially many minimal separators**](https://www.sciencedirect.com/science/article/pii/S0095895621000848?dgcid=coauthor)<br/>
 with Maria Chudnovsky, Cemil Dibek, Stéphan Thomassé, Nicolas Trotignon, and Kristina Vušković. <br/>
