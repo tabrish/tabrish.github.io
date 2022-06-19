@@ -7,7 +7,7 @@ author_profile: true
 British Combinatorial Conference, Lancaster U.K., <br/>
 Induced subgraphs minisymposium, July 2022. <br/>
 
-**Polynomial-time algorithm for Maximum Independent Set in bounded-degree graphs with no long induced claws**]<br/>
+**Polynomial-time algorithm for Maximum Independent Set in bounded-degree graphs with no long induced claws**<br/>
 Seymour is 70+x, Lyon, France, June 2022. <br/>
 
 **Induced subgraphs and treewidth** <br/>
