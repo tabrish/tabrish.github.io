@@ -7,6 +7,13 @@ author_profile: true
 
 My papers and preprints can also be accessed on my [arXiv author page](https://arxiv.org/a/abrishami_t_1.html) or [Google Scholar profile](https://scholar.google.com/citations?user=GvdjMbcAAAAJ&hl=en). 
 
+[**Induced subgraphs and tree decompositions VII. Basic obstructions in H-free graphs**](https://arxiv.org/abs/2212.02737)<br/>
+with Bogdan Alecu, Maria Chudnovsky, Sepehr Hajebi, and Sophie Spirkl. <br/>
+Manuscript, December 2022. <br/>
+
+[**Tree decompositions and many-sided separations**](https://arxiv.org/abs/2207.10778)<br/>
+Manuscript, August 2022. <br/>
+
 [**Induced subgraphs and tree decompositions VI. Graphs with 2-cutsets**](https://arxiv.org/abs/2207.05538)<br/>
 with Maria Chudnovsky, Sepehr Hajebi, and Sophie Spirkl. <br/>
 Submitted, July 2022. <br/>
