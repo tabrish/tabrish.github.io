@@ -13,7 +13,7 @@ Schloss Dagstuhl, Germany, November 2022. <br/>
 **Induced subgraphs and tree decompositions**<br/>
 Stanford Combinatorics Seminar, Stanford, California, October 2022. <br/>
 
-**Directly sampling connected graph partitions**br/>
+**Directly sampling connected graph partitions**<br/>
 Graph theory and social choice seminar, October 2022. 
 
 **Bipartite Ramanujan Graphs**<br/>
