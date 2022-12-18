@@ -3,6 +3,22 @@ permalink: /talks/
 title: "Talks"
 author_profile: true
 ---
+**Partitioning even-hole-free graphs into two chordal graphs**<br/>
+Barbados Graph Theory Workshop, December 2022. <br/>
+
+**Induced subgraphs and tree decompositions**<br/>
+Dagstuhl Seminar, Vertex Partitioning in Graphs: From Structure to Algorithms<br/> 
+Schloss Dagstuhl, Germany, November 2022. <br/>
+
+**Induced subgraphs and tree decompositions**<br/>
+Stanford Combinatorics Seminar, Stanford, California, October 2022. <br/>
+
+**Directly sampling connected graph partitions**br/>
+Graph theory and social choice seminar, October 2022. 
+
+**Bipartite Ramanujan Graphs**<br/>
+Princeton Combinatorics Learning Seminar, October 2022. <br/>
+
 **Induced subgraphs and tree decompositions**<br/>
 British Combinatorial Conference, Lancaster U.K., <br/>
 Induced subgraphs minisymposium, July 2022. <br/>
