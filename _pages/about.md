@@ -12,4 +12,4 @@ I am a fourth-year PhD student in mathematics at Princeton University, planning 
 
 In addition to structural graph theory, I sometimes think about Laplacian eigenvalues of cographs (about which I wrote my [master's thesis](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/61684/ABRISHAMI-THESIS-2019.pdf) at Johns Hopkins University), and about the mathematics of gerrymandering. 
 
-Outside of math, I enjoy climbing, hiking, traveling, playing board games, and making vegan food with my wonderful [co-op](https://twod.princeton.edu/). 
+Outside of math, I enjoy climbing, hiking, writing, and making vegan food with my wonderful [co-op](https://twod.princeton.edu/). 
