@@ -9,32 +9,32 @@ My papers and preprints can also be accessed on my [arXiv author page](https://a
 
 **Published:** <br/>
 
-1. **Induced subgraphs and tree decompositions IV. (Even hole, diamond, pyramid)-free graphs**]  [[journal](https://www.combinatorics.org/ojs/index.php/eljc/article/view/p30i2p42)] [[arxiv](https://arxiv.org/abs/2203.06775)] <br/>
+* **Induced subgraphs and tree decompositions IV. (Even hole, diamond, pyramid)-free graphs**]  [[journal](https://www.combinatorics.org/ojs/index.php/eljc/article/view/p30i2p42)] [[arxiv](https://arxiv.org/abs/2203.06775)] <br/>
 with Maria Chudnovsky, Sepehr Hajebi, and Sophie Spirkl. <br/>
 Electronic Journal of Combinatorics, Volume 30, Issue 2, 2023. <br/>
 
-3. **Induced subgraphs and tree decompositions III. Three-path-configurations and logarithmic treewidth**]  [[journal](https://www.advancesincombinatorics.com/article/38089-induced-subgraphs-and-tree-decompositions-iii-three-path-configurations-and-logarithmic-treewidth)] [[arxiv](https://arxiv.org/abs/2109.01310)]<br/>
+* **Induced subgraphs and tree decompositions III. Three-path-configurations and logarithmic treewidth**]  [[journal](https://www.advancesincombinatorics.com/article/38089-induced-subgraphs-and-tree-decompositions-iii-three-path-configurations-and-logarithmic-treewidth)] [[arxiv](https://arxiv.org/abs/2109.01310)]<br/>
 with Maria Chudnovsky, Sepehr Hajebi, and Sophie Spirkl. <br/>
 Advances in Combinatorics, 2022. <br/>
 
-4. **Polynomial-time algorithm for Maximum Independent Set in bounded-degree graphs with no long induced claws**  [[conference](https://epubs.siam.org/doi/10.1137/1.9781611977073.61)][[arxiv](https://arxiv.org/abs/2107.05434)]<br/>
+* **Polynomial-time algorithm for Maximum Independent Set in bounded-degree graphs with no long induced claws**  [[conference](https://epubs.siam.org/doi/10.1137/1.9781611977073.61)][[arxiv](https://arxiv.org/abs/2107.05434)]<br/>
 with Maria Chudnovsky, Cemil Dibek, and Paweł Rzążewski. <br/>
 Proceedings of the 2022 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), 1448-1470. <br/>
 
-5. **Induced subgraphs and tree decompositions I. Even-hole-free graphs of bounded degree** [[journal](https://www.sciencedirect.com/science/article/pii/S0095895622000533)][[arxiv](https://arxiv.org/abs/2009.01297)]<br/>
+* **Induced subgraphs and tree decompositions I. Even-hole-free graphs of bounded degree** [[journal](https://www.sciencedirect.com/science/article/pii/S0095895622000533)][[arxiv](https://arxiv.org/abs/2009.01297)]<br/>
 with Maria Chudnovsky and Kristina Vušković. <br/>
 Journal of Combinatorial Theory, Series B 157, November 2022, 144-175. <br/>
 
-6. **Graphs with polynomially many minimal separators** [[journal](https://www.sciencedirect.com/science/article/pii/S0095895621000848)][[arxiv](https://arxiv.org/abs/2005.05042)]<br/>
+* **Graphs with polynomially many minimal separators** [[journal](https://www.sciencedirect.com/science/article/pii/S0095895621000848)][[arxiv](https://arxiv.org/abs/2005.05042)]<br/>
 with Maria Chudnovsky, Cemil Dibek, Stéphan Thomassé, Nicolas Trotignon, and Kristina Vušković. <br/>
 Journal of Combinatorial Theory, Series B 152, January 2022, 248-280. <br/>
 
-7. **Induced subgraphs of bounded treewidth and the container method** [[conference](https://epubs.siam.org/doi/10.1137/1.9781611976465.116)][[arxiv](https://arxiv.org/abs/2003.05185)]<br/>
+* **Induced subgraphs of bounded treewidth and the container method** [[conference](https://epubs.siam.org/doi/10.1137/1.9781611976465.116)][[arxiv](https://arxiv.org/abs/2003.05185)]<br/>
 with Maria Chudnovsky, Marcin Pilipczuk, Paweł Rzążewski, and Paul Seymour. <br/>
 Proceedings of the 2021 ACM-SIAM Symposium on Discrete Algorithms (SODA). <br/>
 
 
-8. **Geometry of Graph Partitions via Optimal Transport** [[journal](https://epubs.siam.org/doi/10.1137/19M1295258)][[arxiv](https://arxiv.org/abs/1910.09618)] <br/>
+* **Geometry of Graph Partitions via Optimal Transport** [[journal](https://epubs.siam.org/doi/10.1137/19M1295258)][[arxiv](https://arxiv.org/abs/1910.09618)] <br/>
 with Nestor Guillen, Parker Rule, Zachary Schutzman, Justin Solomon, Thomas Weighill, and Si Wu. <br/>
 SIAM Journal on Scientific Computing 42 (5), A3340-A3366. <br/>
 
