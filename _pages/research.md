@@ -7,6 +7,29 @@ author_profile: true
 
 My papers and preprints can also be accessed on my [arXiv author page](https://arxiv.org/a/abrishami_t_1.html) or [Google Scholar profile](https://scholar.google.com/citations?user=GvdjMbcAAAAJ&hl=en). 
 
+**Published papers:** <br/>
+
+1. **Polynomial-time algorithm for Maximum Independent Set in bounded-degree graphs with no long induced claws**[[conference](https://epubs.siam.org/doi/10.1137/1.9781611977073.61)][[arxiv](https://arxiv.org/abs/2107.05434)]<br/>
+with Maria Chudnovsky, Cemil Dibek, and Paweł Rzążewski. <br/>
+Proceedings of the 2022 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), 1448-1470. <br/>
+
+[**Induced subgraphs and tree decompositions I. Even-hole-free graphs of bounded degree**](https://www.sciencedirect.com/science/article/pii/S0095895622000533)<br/>
+with Maria Chudnovsky and Kristina Vušković. <br/>
+Journal of Combinatorial Theory, Series B 157, November 2022, 144-175. <br/>
+
+[**Graphs with polynomially many minimal separators**](https://www.sciencedirect.com/science/article/pii/S0095895621000848)<br/>
+with Maria Chudnovsky, Cemil Dibek, Stéphan Thomassé, Nicolas Trotignon, and Kristina Vušković. <br/>
+Journal of Combinatorial Theory, Series B 152, January 2022, 248-280. <br/>
+
+[**Induced subgraphs of bounded treewidth and the container method**](https://epubs.siam.org/doi/10.1137/1.9781611976465.116)<br/>
+with Maria Chudnovsky, Marcin Pilipczuk, Paweł Rzążewski, and Paul Seymour. <br/>
+Proceedings of the 2021 ACM-SIAM Symposium on Discrete Algorithms (SODA). <br/>
+
+
+[**Geometry of Graph Partitions via Optimal Transport**](https://epubs.siam.org/doi/10.1137/19M1295258)<br/>
+with Nestor Guillen, Parker Rule, Zachary Schutzman, Justin Solomon, Thomas Weighill, and Si Wu. <br/>
+SIAM Journal on Scientific Computing 42 (5), A3340-A3366. <br/>
+
 [**Induced subgraphs and tree decompositions VII. Basic obstructions in H-free graphs**](https://arxiv.org/abs/2212.02737)<br/>
 with Bogdan Alecu, Maria Chudnovsky, Sepehr Hajebi, and Sophie Spirkl. <br/>
 Manuscript, December 2022. <br/>
@@ -38,26 +61,7 @@ Submitted, August 2021. <br/>
 with Maria Chudnovsky, Cemil Dibek, Sepehr Hajebi, Paweł Rzążewski, Sophie Spirkl, and Kristina Vušković. <br/>
 Submitted, August 2021. <br/>
 
-[**Polynomial-time algorithm for Maximum Independent Set in bounded-degree graphs with no long induced claws**](https://epubs.siam.org/doi/10.1137/1.9781611977073.61)<br/>
-with Maria Chudnovsky, Cemil Dibek, and Paweł Rzążewski. <br/>
-Proceedings of the 2022 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), 1448-1470. <br/>
 
-[**Induced subgraphs and tree decompositions I. Even-hole-free graphs of bounded degree**](https://www.sciencedirect.com/science/article/pii/S0095895622000533)<br/>
-with Maria Chudnovsky and Kristina Vušković. <br/>
-Journal of Combinatorial Theory, Series B 157, November 2022, 144-175. <br/>
-
-[**Graphs with polynomially many minimal separators**](https://www.sciencedirect.com/science/article/pii/S0095895621000848)<br/>
-with Maria Chudnovsky, Cemil Dibek, Stéphan Thomassé, Nicolas Trotignon, and Kristina Vušković. <br/>
-Journal of Combinatorial Theory, Series B 152, January 2022, 248-280. <br/>
-
-[**Induced subgraphs of bounded treewidth and the container method**](https://epubs.siam.org/doi/10.1137/1.9781611976465.116)<br/>
-with Maria Chudnovsky, Marcin Pilipczuk, Paweł Rzążewski, and Paul Seymour. <br/>
-Proceedings of the 2021 ACM-SIAM Symposium on Discrete Algorithms (SODA). <br/>
-
-
-[**Geometry of Graph Partitions via Optimal Transport**](https://epubs.siam.org/doi/10.1137/19M1295258)<br/>
-with Nestor Guillen, Parker Rule, Zachary Schutzman, Justin Solomon, Thomas Weighill, and Si Wu. <br/>
-SIAM Journal on Scientific Computing 42 (5), A3340-A3366. <br/>
 
 
 {% if author.googlescholar %}
