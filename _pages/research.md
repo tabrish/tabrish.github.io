@@ -40,26 +40,26 @@ SIAM Journal on Scientific Computing 42 (5), A3340-A3366. <br/>
 
 **Submitted:** 
 
-1. **Induced subgraphs and tree decompositions VII. Basic obstructions in H-free graphs**  [[arxiv](https://arxiv.org/abs/2212.02737)]<br/>
+* **Induced subgraphs and tree decompositions VII. Basic obstructions in H-free graphs**  [[arxiv](https://arxiv.org/abs/2212.02737)]<br/>
 with Bogdan Alecu, Maria Chudnovsky, Sepehr Hajebi, and Sophie Spirkl. <br/>
 Manuscript, December 2022. <br/>
 
-2. **Tree decompositions and many-sided separations**  [[arxiv](https://arxiv.org/abs/2207.10778)] <br/>
+* **Tree decompositions and many-sided separations**  [[arxiv](https://arxiv.org/abs/2207.10778)] <br/>
 Manuscript, August 2022. <br/>
 
-3. **Induced subgraphs and tree decompositions VI. Graphs with 2-cutsets**  [[arxiv](https://arxiv.org/abs/2207.05538)]<br/>
+* **Induced subgraphs and tree decompositions VI. Graphs with 2-cutsets**  [[arxiv](https://arxiv.org/abs/2207.05538)]<br/>
 with Maria Chudnovsky, Sepehr Hajebi, and Sophie Spirkl. <br/>
 Submitted, July 2022. <br/>
 
-4. **Induced subgraphs and tree decompositions V. One neighbor in a hole** [[arxiv](https://arxiv.org/abs/2205.04420)]<br/>
+* **Induced subgraphs and tree decompositions V. One neighbor in a hole** [[arxiv](https://arxiv.org/abs/2205.04420)]<br/>
 with Bogdan Alecu, Maria Chudnovsky, Sepehr Hajebi, Sophie Spirkl, and Krinstina Vušković. <br/>
 Submitted, May 2022. <br/>
 
-5. **Submodular functions and perfect graphs** [[arxiv](https://arxiv.org/abs/2110.00108)] <br/>
+* **Submodular functions and perfect graphs** [[arxiv](https://arxiv.org/abs/2110.00108)] <br/>
 with Maria Chudnovsky, Cemil Dibek, and Kristina Vušković. <br/>
 Submitted, September 2021. <br/>
 
-6. **Induced subgraphs and tree decompositions II. Toward walls and their line graphs in graphs of bounded degree**  [[arxiv](https://arxiv.org/abs/2108.01162)]<br/>
+* **Induced subgraphs and tree decompositions II. Toward walls and their line graphs in graphs of bounded degree**  [[arxiv](https://arxiv.org/abs/2108.01162)]<br/>
 with Maria Chudnovsky, Cemil Dibek, Sepehr Hajebi, Paweł Rzążewski, Sophie Spirkl, and Kristina Vušković. <br/>
 Submitted, August 2021. <br/>
 
