@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I received my PhD in Applied and Computational Mathematics from Princeton University in 2023, where I was advised by Maria Chudnovsky. I'm interested in graph theory and combinatorics, and, more broadly, discrete mathematics and its applications. My PhD thesis was in structural graph theory, specifically induced subgraph obstructions to bounded treewidth. Here is a [video](https://mediacentral.princeton.edu/media/Explaining%20treewidth%20through%20the%20Traveling%20Salesman%20Problem%2C%20Tara%20Abrishami%2C%20GS%20%20(2278472)/1_54cmvif1/297780972) I made explaining my thesis research to general audiences.  
+I am a fourth-year PhD student in mathematics at Princeton University, planning to graduate in May 2023. My interests are in discrete math, particularly graph theory, combinatorics, and optimization. I am advised by [Maria Chudnovsky](https://web.math.princeton.edu/~mchudnov/). My current research focuses on problems in structural graph theory, specifically induced subgraph obstructions to bounded treewidth. Links to my papers and preprints can be found on my Research page. 
 
-Outside of math, I am a climber, an aerialist, a writer, and a vegan food enthusiast. 
+In addition to structural graph theory, I sometimes think about Laplacian eigenvalues of cographs (about which I wrote my [master's thesis](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/61684/ABRISHAMI-THESIS-2019.pdf) at Johns Hopkins University), and about the mathematics of gerrymandering. 
+
+Outside of math, I enjoy climbing, hiking, writing, and making vegan food with my wonderful [co-op](https://twod.princeton.edu/). 
