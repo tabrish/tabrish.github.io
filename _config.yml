@@ -84,7 +84,7 @@ author:
   avatar           : "RenderedImage.jpg"
   bio              : "Mathematics postdoc at University of Hamburg"
   location         : #"Location"
-  arxiv            : "https://arxiv.org/a/abrishami_t_1"
+  arxiv            : #"https://arxiv.org/a/abrishami_t_1"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GvdjMbcAAAAJ&hl=en" #"http://yourfullgooglescholarurl.com"
