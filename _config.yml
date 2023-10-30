@@ -84,12 +84,12 @@ author:
   avatar           : "RenderedImage.jpg"
   bio              : "Mathematics postdoc at University of Hamburg"
   location         : #"Location"
-  arxiv            : #"https://arxiv.org/a/abrishami_t_1"
+  arxiv            : "https://arxiv.org/a/abrishami_t_1"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GvdjMbcAAAAJ&hl=en" #"http://yourfullgooglescholarurl.com"
   email            : "tara.abrishami@uni-hamburg.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
