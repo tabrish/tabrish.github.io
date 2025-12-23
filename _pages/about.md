@@ -9,3 +9,8 @@ redirect_from:
 I am an NSF Postdoc at Stanford University. From 2023 to 2025, I was an NSF Postdoc and a Humboldt Research Fellow in mathematics at the University of Hamburg. In Spring 2025, I was also a visiting postdoc in the [Extremal Combinatorics](https://www.slmath.org/programs/375) program at SLMath (formerly MSRI). I received my PhD in applied and computational mathematics from Princeton University in 2023. 
 
 I'm interested in graph theory broadly. My research at the moment focuses on structural graph theory and its connections to algebraic topology, geometric group theory, logic, and algorithms. A list of my papers and preprints can be found on my [arXiv author page](https://arxiv.org/a/abrishami_t_1.html) or my [Google Scholar profile](https://scholar.google.com/citations?user=6z6Pjt0AAAAJ&hl=en). You can also learn about my recent work by reading my [posts](https://tabrish.github.io/year-archive/) or watching my [recorded talks](https://tabrish.github.io/talks/).  
+
+**Selected works**: 
+ * Locally chordal graphs, with Paul Knappe and Jonas Kobler [[arxiv](https://arxiv.org/pdf/2501.17320)]
+ * The global structure of locally chordal graphs, with Paul Knappe [[arxiv](https://arxiv.org/pdf/2512.19044)]
+ * Periodic colorings and orientations in infinite graphs, with Louis Esperet, Ugo Giocanti, Matthias Hamann, Paul Knappe, and Rögnvaldur G. Möller [[arxiv](https://arxiv.org/pdf/2411.01951)]
