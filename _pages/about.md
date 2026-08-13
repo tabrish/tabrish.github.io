@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an NSF Postdoc at Stanford University. From 2023 to 2025, I was an NSF Postdoc and a Humboldt Research Fellow in mathematics at the University of Hamburg. In Spring 2025, I was also a visiting postdoc in the [Extremal Combinatorics](https://www.slmath.org/programs/375) program at SLMath (formerly MSRI). I received my PhD in applied and computational mathematics from Princeton University in 2023. 
+I am a mathematician and a researcher at [Epoch AI](https://epoch.ai/about). Previously, I was a math postdoc at Stanford, SLMath, and the University of Hamburg. I have a PhD in applied and computational math from Princeton. 
 
-I'm interested in graph theory broadly. My research at the moment focuses on structural graph theory and its connections to algebraic topology, geometric group theory, logic, and algorithms. A list of my papers and preprints can be found on my [arXiv author page](https://arxiv.org/a/abrishami_t_1.html) or my [Google Scholar profile](https://scholar.google.com/citations?user=6z6Pjt0AAAAJ&hl=en). You can also learn about my recent work by reading my [posts](https://tabrish.github.io/year-archive/) or watching my [recorded talks](https://tabrish.github.io/talks/).  
+You can learn about my academic work by reading my [posts](https://tabrish.github.io/year-archive/) or watching my [recorded talks](https://tabrish.github.io/talks/), or by checking out my  [arXiv author page](https://arxiv.org/a/abrishami_t_1.html) or [Google Scholar profile](https://scholar.google.com/citations?user=6z6Pjt0AAAAJ&hl=en).
 
 **Selected works**: 
  * Locally chordal graphs, with Paul Knappe and Jonas Kobler [[arxiv](https://arxiv.org/pdf/2501.17320)]
